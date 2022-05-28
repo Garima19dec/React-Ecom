@@ -50,11 +50,11 @@ const Navbar = () => {
                 aria-label="Search"
               />
               <a className="btn btn-outline-dark ms-2" type="submit">
-                <i classNameName="fa fa-search me-1"></i>
+                <i className="fa fa-search me-1"></i>
                 Search
               </a>
-              <div classNameName="buttons">
-                <a href="" classNameName="btn btn-outline-dark ms-2"><i classNameName="fa fa-shopping-cart me-1"></i> Cart(0)
+              <div className="buttons">
+                <a href="" className="btn btn-outline-dark ms-2"><i className="fa fa-shopping-cart me-1"></i> Cart(0)
                 </a>
               </div>
             </form>
